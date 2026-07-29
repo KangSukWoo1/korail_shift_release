@@ -1,6 +1,6 @@
 {
-  "versionCode": 29,
-  "versionName": "1.0.29",
-  "apkUrl": "https://github.com/KangSukWoo1/korail_shift_release/releases/download/v1.0.29/korail_shift.apk",
-  "note": "생체인증 진입 막힘 수정 + 홈 위젯 추가"
+  "versionCode": 30,
+  "versionName": "1.0.30",
+  "apkUrl": "https://github.com/KangSukWoo1/korail_shift_release/releases/download/v1.0.30/korail_shift.apk",
+  "note": "알람 팝업 제거 (상단 알림으로, 소리는 그대로)"
 }
