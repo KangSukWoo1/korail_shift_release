@@ -1,6 +1,6 @@
 {
-  "versionCode": 30,
-  "versionName": "1.0.30",
-  "apkUrl": "https://github.com/KangSukWoo1/korail_shift_release/releases/download/v1.0.30/korail_shift.apk",
-  "note": "알람 팝업 제거 (상단 알림으로, 소리는 그대로)"
+  "versionCode": 32,
+  "versionName": "1.0.32",
+  "apkUrl": "https://github.com/KangSukWoo1/korail_shift_release/releases/download/v1.0.32/korail_shift.apk",
+  "note": "알람 안정성 개선(절전 뚫고 정시에) + 알람 소리 개선"
 }
