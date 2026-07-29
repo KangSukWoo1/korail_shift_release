@@ -1,6 +1,6 @@
 {
-  "versionCode": 24,
-  "versionName": "1.0.24",
-  "apkUrl": "https://github.com/KangSukWoo1/korail_shift_release/releases/download/v1.0.24/korail_shift.apk",
-  "note": "첫 갤럭시 버전"
+  "versionCode": 25,
+  "versionName": "1.0.25",
+  "apkUrl": "https://github.com/KangSukWoo1/korail_shift_release/releases/download/v1.0.25/korail_shift.apk",
+  "note": "알람 소리 개선 — 무음모드에도 알람 볼륨으로 크게 울립니다"
 }
