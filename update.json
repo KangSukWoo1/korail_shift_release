@@ -1,6 +1,6 @@
 {
-  "versionCode": 26,
-  "versionName": "1.0.26",
-  "apkUrl": "https://github.com/KangSukWoo1/korail_shift_release/releases/download/v1.0.26/korail_shift.apk",
-  "note": "알람 소리/조용 선택 추가 (설정 → 소리나는 알람)"
+  "versionCode": 27,
+  "versionName": "1.0.27",
+  "apkUrl": "https://github.com/KangSukWoo1/korail_shift_release/releases/download/v1.0.27/korail_shift.apk",
+  "note": "생체 잠금 문구 정리 (지문)"
 }
