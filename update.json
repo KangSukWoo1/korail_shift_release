@@ -1,6 +1,6 @@
 {
-  "versionCode": 34,
-  "versionName": "1.0.34",
-  "apkUrl": "https://github.com/KangSukWoo1/korail_shift_release/releases/download/v1.0.34/korail_shift.apk",
-  "note": "알람 무음 문제 수정 — 화면 꺼진 상태에서도 알람 소리가 확실히 울립니다"
+  "versionCode": 35,
+  "versionName": "1.0.35",
+  "apkUrl": "https://github.com/KangSukWoo1/korail_shift_release/releases/download/v1.0.35/korail_shift.apk",
+  "note": "테마 직접 선택 추가 (설정 → 화면 → 테마: 시스템/라이트/다크)"
 }
