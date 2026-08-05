@@ -1,6 +1,6 @@
 {
-  "versionCode": 36,
-  "versionName": "1.0.36",
-  "apkUrl": "https://github.com/KangSukWoo1/korail_shift_release/releases/download/v1.0.36/korail_shift.apk",
-  "note": "알람 소리·진동이 안 울리던 문제 수정 — 화면 꺼진 상태에서도 확실히 울립니다"
+  "versionCode": 37,
+  "versionName": "1.0.37",
+  "apkUrl": "https://github.com/KangSukWoo1/korail_shift_release/releases/download/v1.0.37/korail_shift.apk",
+  "note": "갤럭시 알람 안정화 — 정확한 알람 권한이 없어도 알람이 등록되도록 고쳤습니다. 설치 후 설정의 [알람 테스트]를 한 번 눌러주세요(권한 화면이 뜨면 허용). 그리고 휴대폰 설정 → 애플리케이션 → 코레일 근무표 → 배터리를 '제한 없음'으로 해두면 확실합니다"
 }
