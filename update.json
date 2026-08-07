@@ -1,6 +1,6 @@
 {
-  "versionCode": 37,
-  "versionName": "1.0.37",
-  "apkUrl": "https://github.com/KangSukWoo1/korail_shift_release/releases/download/v1.0.37/korail_shift.apk",
-  "note": "갤럭시 알람 안정화 — 정확한 알람 권한이 없어도 알람이 등록되도록 고쳤습니다. 설치 후 설정의 [알람 테스트]를 한 번 눌러주세요(권한 화면이 뜨면 허용). 그리고 휴대폰 설정 → 애플리케이션 → 코레일 근무표 → 배터리를 '제한 없음'으로 해두면 확실합니다"
+  "versionCode": 38,
+  "versionName": "1.0.38",
+  "apkUrl": "https://github.com/KangSukWoo1/korail_shift_release/releases/download/v1.0.38/korail_shift.apk",
+  "note": "홈 위젯이 한 줄(4x1) 크기로 깔끔해졌어요. 위젯을 길게 눌러 크기를 늘리면 상세 화면으로 바뀝니다. ※ 위젯이 이전 크기로 나오면 위젯을 지우고 다시 추가해주세요"
 }
