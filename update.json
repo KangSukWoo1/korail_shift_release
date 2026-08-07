@@ -1,6 +1,6 @@
 {
-  "versionCode": 38,
-  "versionName": "1.0.38",
-  "apkUrl": "https://github.com/KangSukWoo1/korail_shift_release/releases/download/v1.0.38/korail_shift.apk",
-  "note": "홈 위젯이 한 줄(4x1) 크기로 깔끔해졌어요. 위젯을 길게 눌러 크기를 늘리면 상세 화면으로 바뀝니다. ※ 위젯이 이전 크기로 나오면 위젯을 지우고 다시 추가해주세요"
+  "versionCode": 39,
+  "versionName": "1.0.39",
+  "apkUrl": "https://github.com/KangSukWoo1/korail_shift_release/releases/download/v1.0.39/korail_shift.apk",
+  "note": "홈 위젯이 아이폰 위젯과 같은 디자인으로 바뀌었어요 (한 줄 4x1 기본, 늘리면 상세). ※ 위젯이 이전 모양이면 지우고 다시 추가해주세요"
 }
