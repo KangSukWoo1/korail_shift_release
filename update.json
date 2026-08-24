@@ -1,6 +1,6 @@
 {
-  "versionCode": 40,
-  "versionName": "1.0.40",
-  "apkUrl": "https://github.com/KangSukWoo1/korail_shift_release/releases/download/v1.0.40/korail_shift.apk",
-  "note": "알람이 울릴 때 화면이 같이 뜹니다 — 꺼진 화면 위로 시계와 알람 내용, [알람 끄기] 버튼이 표시돼요. (위젯 아이폰 디자인 포함)"
+  "versionCode": 41,
+  "versionName": "1.0.41",
+  "apkUrl": "https://github.com/KangSukWoo1/korail_shift_release/releases/download/v1.0.41/korail_shift.apk",
+  "note": "출고준비 시간이 휴게로 계산되는 경우를 수정함."
 }
