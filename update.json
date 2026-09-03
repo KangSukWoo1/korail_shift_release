@@ -1,6 +1,6 @@
 {
-  "versionCode": 44,
-  "versionName": "1.0.44",
-  "apkUrl": "https://github.com/KangSukWoo1/korail_shift_release/releases/download/v1.0.44/korail_shift.apk",
-  "note": "매달 1일도 비번이 제대로 표시되도록 수정했습니다."
+  "versionCode": 47,
+  "versionName": "1.0.47",
+  "apkUrl": "https://github.com/KangSukWoo1/korail_shift_release/releases/download/v1.0.47/korail_shift.apk",
+  "note": "앱 이름이 'MY 근무표'로 바뀌었어요. 비번 표시, 휴게 알람 30분 전, 개인 일정, 위젯 일정 표시가 추가됐습니다."
 }
