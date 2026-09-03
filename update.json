@@ -1,6 +1,6 @@
 {
-  "versionCode": 42,
-  "versionName": "1.0.42",
-  "apkUrl": "https://github.com/KangSukWoo1/korail_shift_release/releases/download/v1.0.42/korail_shift.apk",
-  "note": "다이아 화면에서 출고준비가 휴게와 분리되어 표시됩니다."
+  "versionCode": 43,
+  "versionName": "1.0.43",
+  "apkUrl": "https://github.com/KangSukWoo1/korail_shift_release/releases/download/v1.0.43/korail_shift.apk",
+  "note": "비번 표시(야간 다음날), 휴게 알람 30분 전 추가, 개인 일정 기능, 큰 위젯에 일정 표시"
 }
