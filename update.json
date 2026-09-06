@@ -1,6 +1,6 @@
 {
-  "versionCode": 51,
-  "versionName": "1.0.51",
-  "apkUrl": "https://github.com/KangSukWoo1/korail_shift_release/releases/download/v1.0.51/korail_shift.apk",
-  "note": "출고준비와 편승을 휴게로 잡던 문제를 고쳤어요. 이제 운행으로 보고 알람도 울립니다."
+  "versionCode": 52,
+  "versionName": "1.0.52",
+  "apkUrl": "https://github.com/KangSukWoo1/korail_shift_release/releases/download/v1.0.52/korail_shift.apk",
+  "note": "한 달 근무표 위젯이 추가됐어요. 연차가 비번으로 나오던 문제를 고쳤고, 앱 안에서 문의를 남길 수 있습니다."
 }
