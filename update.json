@@ -1,6 +1,6 @@
 {
-  "versionCode": 53,
-  "versionName": "1.0.53",
-  "apkUrl": "https://github.com/KangSukWoo1/korail_shift_release/releases/download/v1.0.53/korail_shift.apk",
-  "note": "공지 팝업에 [링크 복사] 버튼이 생겼어요."
+  "versionCode": 54,
+  "versionName": "1.0.54",
+  "apkUrl": "https://github.com/KangSukWoo1/korail_shift_release/releases/download/v1.0.54/korail_shift.apk",
+  "note": "운전 직전의 감시 구간이 운행 카드로 보이고, 그 앞에서 알람이 울려요. 알람을 끄면 잠금 화면으로 돌아가도록 바꿨습니다."
 }
