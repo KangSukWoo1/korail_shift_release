@@ -1,6 +1,6 @@
 {
-  "versionCode": 54,
-  "versionName": "1.0.54",
-  "apkUrl": "https://github.com/KangSukWoo1/korail_shift_release/releases/download/v1.0.54/korail_shift.apk",
-  "note": "운전 직전의 감시 구간이 운행 카드로 보이고, 그 앞에서 알람이 울려요. 알람을 끄면 잠금 화면으로 돌아가도록 바꿨습니다."
+  "versionCode": 55,
+  "versionName": "1.0.55",
+  "apkUrl": "https://github.com/KangSukWoo1/korail_shift_release/releases/download/v1.0.55/korail_shift_1.0.55.apk",
+  "note": "무음·진동 모드에서도 알람이 끌 때까지 울려요. 화면 아래 버튼 줄에 근무표 마지막 칸이 가려지던 문제와, 달이 바뀌는 새벽에 전날 야간 알람이 사라지던 문제를 고쳤습니다. 시작 화면에서 오래 걸리면 [다시 시도] 버튼이 나와요."
 }
