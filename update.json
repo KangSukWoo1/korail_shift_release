@@ -1,6 +1,6 @@
 {
-  "versionCode": 55,
-  "versionName": "1.0.55",
-  "apkUrl": "https://github.com/KangSukWoo1/korail_shift_release/releases/download/v1.0.55/korail_shift_1.0.55.apk",
-  "note": "무음·진동 모드에서도 알람이 끌 때까지 울려요. 화면 아래 버튼 줄에 근무표 마지막 칸이 가려지던 문제와, 달이 바뀌는 새벽에 전날 야간 알람이 사라지던 문제를 고쳤습니다. 시작 화면에서 오래 걸리면 [다시 시도] 버튼이 나와요."
+  "versionCode": 56,
+  "versionName": "1.0.56",
+  "apkUrl": "https://github.com/KangSukWoo1/korail_shift_release/releases/download/v1.0.56/korail_shift_1.0.56.apk",
+  "note": "• 홈 화면 '다음 근무' 위젯이 앱을 열지 않아도 시간에 맞춰 다음 열차로 바뀌어요.\n• 잠금 화면에 알람 화면이 안 뜨는 폰이면 근무표 위에 안내가 나와요. [켜기]를 눌러 허용해 주세요. 알람 소리는 이 설정과 상관없이 울려요.\n• 앱을 몇 시간 만에 다시 열면 근무표를 새로 받아서, 바뀐 근무가 알람에 반영돼요.\n• 알림센터에 남은 지난 알람을 누르면 지난 알람 화면이 다시 뜨던 문제를 고쳤어요. 이제 근무표가 바로 열려요.\n• 다크 모드에서 위젯 글씨가 안 보이던 문제를 고쳤고, 받는 파일이 58MB에서 18MB로 줄었어요."
 }
