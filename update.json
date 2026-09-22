@@ -1,6 +1,6 @@
 {
-  "versionCode": 57,
-  "versionName": "1.0.57",
-  "apkUrl": "https://github.com/KangSukWoo1/korail_shift_release/releases/download/v1.0.57/korail_shift_1.0.57.apk",
-  "note": "• 휴게 알람을 한 운행 앞에서 여러 번 울릴 수 있어요. 설정에서 ⊕를 눌러 최대 5개까지, 5분부터 60분 전까지 5분 단위로 고르세요.\n• 잠금 화면 알람 안내를 [7일간 안 보기]로 미루거나, 설정에서 아예 끌 수 있어요.\n• 방해금지 중에도 잠금 화면에 알람 화면이 뜨도록 고쳤어요(조용한 알람).\n• 게시판 답변 알림을 알람과 따로 끌 수 있어요.\n• 앱을 켜면 알람이 잘 울리는지 묻는 카드가 한 번 나와요. 한 번만 눌러 주시면 큰 도움이 됩니다."
+  "versionCode": 58,
+  "versionName": "1.0.58",
+  "apkUrl": "https://github.com/KangSukWoo1/korail_shift_release/releases/download/v1.0.58/korail_shift_1.0.58.apk",
+  "note": "• 근무표 화면 아래쪽이 비고 달력이 반쯤 잘려 보이던 문제를 고쳤어요. 불편을 드려 죄송합니다."
 }
