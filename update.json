@@ -1,6 +1,6 @@
 {
-  "versionCode": 59,
-  "versionName": "1.0.59",
-  "apkUrl": "https://github.com/KangSukWoo1/korail_shift_release/releases/download/v1.0.59/korail_shift_1.0.59.apk",
-  "note": "• 하루에 근무가 두 줄로 올라온 날이 있으면 그 뒤 근무가 하루씩 밀려 보이던 문제를 고쳤습니다.\n• 설정에 '자주 묻는 질문'을 추가했습니다.\n• '알람 잘 울리고 있나요?' 카드를 없앴습니다."
+  "versionCode": 60,
+  "versionName": "1.0.60",
+  "apkUrl": "https://github.com/KangSukWoo1/korail_shift_release/releases/download/v1.0.60/korail_shift_1.0.60.apk",
+  "note": "• 코레일 승무 시스템 주소가 바뀌어 근무표를 받아오지 못하던 문제를 고쳤습니다.\n• 업데이트 후 다시 로그인할 필요 없이 그대로 쓰시면 됩니다.\n• 새 시스템에는 '끝 열차' 정보가 없어 근무 상세에서 그 줄이 빠졌습니다."
 }
